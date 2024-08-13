@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+Hello!
+My name is Rodrigo
+I’m currently learning Data Science at ITAM in Mexico City.
+Pronouns: He/him
+I’m looking to deepen my knowledge in Machine Learning applied in Finances.
 <!--
 **roddavalosG/roddavalosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
